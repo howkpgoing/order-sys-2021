@@ -12,3 +12,5 @@
 ## 🛠️ 執行環境 (Prerequisites)
 * Java Development Kit (JDK) 17 或以上版本
 * 建議編輯器：VS Code、Eclipse 或 IntelliJ IDEA
+
+<img width="1024" height="191" alt="image" src="https://github.com/user-attachments/assets/baf59634-65d9-4d9f-b3c6-a6f71f495ff1" />
