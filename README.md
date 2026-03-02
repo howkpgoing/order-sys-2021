@@ -13,4 +13,6 @@
 * Java Development Kit (JDK) 17 或以上版本
 * 建議編輯器：VS Code、Eclipse 或 IntelliJ IDEA
 
-<img width="1024" height="191" alt="image" src="https://github.com/user-attachments/assets/baf59634-65d9-4d9f-b3c6-a6f71f495ff1" />
+## 使用案例圖 (use case diagram)
+
+<img width="1024" height="191" alt="image" src="https://github.com/user-attachments/assets/77b55bbf-e593-4ab9-9bd9-50c90ee9cedb" />
